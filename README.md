@@ -1,6 +1,6 @@
 ## About Me
 
-Olá👋, sou o Edilson Junior, desde cedo sempre gostei de tecnologia e das possibilidades que ela traz para mudar a vida das pessoas. No ensino médio conheci a programação e desde então sigo estudando diversos temas e linguagens. Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela FIAP
+Olá👋, sou o Edilson Junior, desde cedo sempre gostei de tecnologia e acredito que através dela podemos mudar a vida das pessoas para melhor. No ensino médio conheci a programação e desde então sigo estudando diversos temas e linguagens. Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela FIAP
 
 ### Alguns Interresess 
 - 🎮Jogos;
