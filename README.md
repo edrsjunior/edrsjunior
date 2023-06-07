@@ -30,8 +30,8 @@ Olá👋, sou o Edilson Junior, desde cedo sempre gostei de tecnologia e acredit
 
 ### :tv: Alguns Interresess 
 - 🎮Jogos;
-- 💻Técnologia;
-- ⌨️Programação.
+- 💻Tecnologia;
+- ⌨️Automação.
 
 ### :hammer_and_wrench: Languages and Tools :
 
