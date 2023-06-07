@@ -20,13 +20,13 @@
 
 Olá👋, sou o Edilson Junior, desde cedo sempre gostei de tecnologia e acredito que através dela podemos mudar a vida das pessoas para melhor. No ensino médio conheci a programação e desde então sigo estudando diversos temas e linguagens. 
 
-- :telescope: Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela FIAP.
+- :telescope: Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela FIAP e fazendo estágio na Sylvamo Brasil na área de Operações de TI.
 
 - :seedling: Procurando aprender mais sobre Java e Backend.
 
 - :zap: No meu tempo livre eu jogo um pouco e brinco com algumas automações.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Edilson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edilsonrodrigues13/)
+- :mailbox:Como falar comigo: [![Linkedin Badge](https://img.shields.io/badge/-Edilson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edilsonrodrigues13/)
 
 ### Alguns Interresess 
 - 🎮Jogos;
