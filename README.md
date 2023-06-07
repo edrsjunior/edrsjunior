@@ -1,3 +1,7 @@
+<div id="header-logo" align="center">
+  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
+</div>
+
 ## About Me
 
 Olá👋, sou o Edilson Junior, desde cedo sempre gostei de tecnologia e acredito que através dela podemos mudar a vida das pessoas para melhor. No ensino médio conheci a programação e desde então sigo estudando diversos temas e linguagens. Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela FIAP
