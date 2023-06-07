@@ -7,7 +7,9 @@ Olá👋, sou o Edilson Junior, desde cedo sempre gostei de tecnologia e acredit
 - 💻Técnologia;
 - ⌨️Programação.
 
-![Github Commits](https://github.com/edrsjunior/edrsjunior/assets/102622957/d98c5473-a8b3-4c6f-bee7-dacc1f571c9d)
+<p align="center">
+  <img src="https://github.com/edrsjunior/edrsjunior/assets/102622957/d98c5473-a8b3-4c6f-bee7-dacc1f571c9d.gif)" alt="animated" />
+</p>
 
 <!---
 - 👋 Hi, I’m @edrsjunior
