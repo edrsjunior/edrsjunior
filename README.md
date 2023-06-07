@@ -46,7 +46,6 @@ Olá👋, sou o Edilson Junior, desde cedo sempre gostei de tecnologia e acredit
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edrsjunior&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edrsjunior&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![3D View](https://skyline.github.com/edrsjunior/2022)](https://skyline.github.com/edrsjunior/2022)
 <!---
 - 👋 Hi, I’m @edrsjunior
 - 👀 I’m interested in ...
