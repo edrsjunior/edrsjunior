@@ -28,7 +28,7 @@ Olá👋, sou o Edilson Junior, desde cedo sempre gostei de tecnologia e acredit
 
 - :mailbox:Como falar comigo: [![Linkedin Badge](https://img.shields.io/badge/-Edilson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edilsonrodrigues13/)
 
-###📖 Alguns Interresess 
+### :tv: Alguns Interresess 
 - 🎮Jogos;
 - 💻Técnologia;
 - ⌨️Programação.
