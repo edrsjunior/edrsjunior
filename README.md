@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 
-Olá👋, sou o Edilson Junior, desde cedo sempre gostei de tecnologia e acredito que através dela podemos mudar a vida das pessoas para melhor. No ensino médio conheci a programação e desde então sigo estudando diversos temas e linguagens. 
+Olá👋, sou o Edilson Junior. 
 
 - :telescope: Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela FIAP e fazendo estágio na Sylvamo Brasil na área de Operações de TI.
 
