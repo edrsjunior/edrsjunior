@@ -22,9 +22,9 @@ Olá👋, sou o Edilson Junior.
 
 - :telescope: Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela FIAP e fazendo estágio na Sylvamo Brasil na área de Operações de TI.
 
-- :seedling: Procurando aprender mais sobre Java e Backend.
+- :seedling: Procurando aprender mais sobre JS e Backend.
 
-- :zap: No meu tempo livre eu jogo um pouco e brinco com algumas automações.
+- :zap: No meu tempo livre eu brinco com algumas automações.
 
 - :mailbox:Como falar comigo: [![Linkedin Badge](https://img.shields.io/badge/-Edilson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edilsonrodrigues13/)
 
