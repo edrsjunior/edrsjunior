@@ -16,13 +16,13 @@
 
 
 
-### :man_technologist: About Me :
+### About Me :
 
 Olá👋, sou o Edilson Junior. 
 
 - :telescope: Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela FIAP e fazendo estágio na Sylvamo Brasil na área de Operações de TI.
 
-- 🧑‍🎓: Estudando na Devaria, turma de 2023.
+- 👨‍💻 Estudando na Devaria, turma de 2023.
 - :seedling: Procurando aprender mais sobre JS e Backend.
 
 - :zap: No meu tempo livre eu brinco com algumas automações.
