@@ -27,7 +27,7 @@ Olá👋, sou o Edilson Junior.
 
 - :zap: No meu tempo livre eu brinco com algumas automações.
 
-- :mailbox:Como falar comigo: [![Linkedin Badge](https://img.shields.io/badge/-Edilson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edilsonrodrigues13/)
+- :mailbox:Como falar comigo: [![Linkedin Badge](https://img.shields.io/badge/-Edilson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edrsjunior/)
 
 ### :tv: Alguns Interresess 
 - 🎮Jogos;
