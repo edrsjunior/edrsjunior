@@ -20,10 +20,9 @@
 
 Olá👋, sou o Edilson Junior. 
 
-- :telescope: Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela FIAP e fazendo estágio na Sylvamo Brasil na área de Operações de TI.
+- :telescope: Formado em Análise e Desenvolvimento de Sistemas pela FIAP.
 
 - 👨‍💻 Estudando na Devaria, turma de 2023.
-- :seedling: Procurando aprender mais sobre JS e Backend.
 
 - :zap: No meu tempo livre eu brinco com algumas automações.
 
